@@ -3,7 +3,7 @@ interface routesI {
 }
 
 export const routes: routesI = {
-  users: '/',
-  auth: '/auth',
-  addUser: '/addUser',
+  users: '/typescript-redux-formik-api/',
+  auth: '/typescript-redux-formik-api/auth',
+  addUser: '/typescript-redux-formik-api/addUser',
 };
